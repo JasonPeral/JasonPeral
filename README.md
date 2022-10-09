@@ -1,7 +1,7 @@
 <h1 align="center">Jason Peral 🤙🏽</h1>
 <h3 align="center">I am a student studying computer programming & analysis @Humber College</h3>
 
-- 🌱 I’m currently learning **React Native, React.js, Express.JS, Data Structures & Algorithms with Java**
+- 🌱 Currently learning **React Native, React.js, Express.JS, Data Structures & Algorithms with Java**
 
 - 📫 How to reach me **jasonperal@hotmail.com**
 
