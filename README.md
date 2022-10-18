@@ -1,4 +1,4 @@
-<h1 align="center">Jason Peral🏽</h1>
+<h1 align="center">Jason Peral 📬</h1>
 <h3 align="center">I am a student studying computer programming & analysis @Humber College</h3>
 
 - 🌱 Currently learning **React Native, React.js, Express.JS, Data Structures & Algorithms with Java**
