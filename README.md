@@ -17,5 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasonperal&show_icons=true&locale=en" alt="jasonperal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonperal&" alt="jasonperal" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPeral)](https://github.com/anuraghazra/github-readme-stats)
+
 
