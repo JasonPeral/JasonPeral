@@ -1,7 +1,8 @@
 <h1 align="center">Jason Peral 📬</h1>
 
+I am currently working in Network Operations, passionate about all things technology, particularly IT and Cybersecurity. I am honing my skills daily to stay ahead in this dynamic and ever-evolving field.
 
-- 📫 How to reach me **jasonperal@hotmail.com**
+- How to reach me **jasonperal@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
