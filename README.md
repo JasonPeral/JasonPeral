@@ -1,4 +1,4 @@
-<h1 align="center">Jason Peral 📬</h1>
+<h1 align="center">Jason Peral </h1>
 
 I am currently working in Network Operations, passionate about all things technology, particularly IT and Cybersecurity. I am honing my skills daily to stay ahead in this dynamic and ever-evolving field.
 
