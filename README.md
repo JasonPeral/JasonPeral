@@ -11,14 +11,16 @@
   Currently working in Network Operations, passionate about all things technology, particularly IT and Cybersecurity. Constantly honing my skills daily to stay ahead in this dynamic and ever-evolving field.
 </p>
 
-<p align="center"><b>How to reach me:</b> <a href="mailto:jasonperal@hotmail.com">jasonperal@hotmail.com</a></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>How to reach me:</b>
+  <a href="mailto:jasonperal@hotmail.com">jasonperal@hotmail.com</a> &nbsp;|&nbsp;
+  <b>Connect with me:</b>
   <a href="https://linkedin.com/in/jason-peral-89919716b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-peral" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+
 
 <h3 align="center">📊 GitHub Commit Stats</h3>
 
