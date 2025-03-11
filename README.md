@@ -24,9 +24,17 @@
 
 
 
-<h3 align="center">📊 GitHub Commit Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonperal&show_icons=true&theme=radical&hide=issues,contribs,prs" alt="Jason's GitHub Commits" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jasonperal&show_icons=true&theme=radical&hide=issues,contribs,prs" alt="Jason's GitHub Commits" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonperal&layout=compact&theme=radical" alt="Jason's Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
-
