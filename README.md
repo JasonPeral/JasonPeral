@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Currently working in Network Operations, passionate about all things technology, particularly IT and Cybersecurity. Constantly honing my skills daily to stay ahead in this dynamic and ever-evolving field.
+  Currently working in Network Operations, passionate about all things technology, particularly Sofware Development and Cybersecurity. Constantly honing my skills daily to stay ahead in this dynamic and ever-evolving field.
 </p>
 
 <p align="center">
